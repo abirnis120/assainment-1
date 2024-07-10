@@ -82,7 +82,7 @@ margin-top: 50px;
 .second-section-container{
     width: 946px;
     height: 1235px;
-    border: 2px solid red;
+ 
 margin: 0 auto;
 margin-top: 80px;
 
@@ -120,5 +120,28 @@ padding: 0px;
 
 
 }
+.third-section-container{
 
+    width: 852px;
+    height: 39px;
+
+}
+.third-section-content h3{
+  text-align: center ;
+  width: 852px;
+    height: 39px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 80px;
+
+}
+.third-section-content h3 p{
+    text-align: center ;
+    width: 852px;
+      height: 39px;
+      border: 2px solid red;
+      margin: 0 auto;
+      margin-top: 80px;
+  
+  }
 
