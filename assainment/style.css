@@ -130,7 +130,7 @@ padding: 0px;
   text-align: center ;
   width: 852px;
     height: 39px;
-    border: 2px solid red;
+
     margin: 0 auto;
     margin-top: 80px;
 
@@ -139,9 +139,18 @@ padding: 0px;
     text-align: center ;
     width: 852px;
       height: 39px;
-      border: 2px solid red;
+    
       margin: 0 auto;
       margin-top: 80px;
   
   }
+  iframe{
 
+margin: auto;
+    position:relative;
+  }
+.vedio{
+
+border: 20px;
+
+}
