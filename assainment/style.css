@@ -15,7 +15,7 @@ body{
 /* banner-section-start here */
 
 .container{
-margin-top: 46px;
+margin-top: 50px;
 
     display: flex;
     flex-direction: column;
@@ -30,8 +30,10 @@ margin-top: 46px;
 .banner-container{
 
     width: 1440px;
+    max-width: 1440;
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top:auto ;
+   
     height: 652px;
    
     background-image: url("../assainment/background.png");
@@ -53,7 +55,7 @@ margin-top: 46px;
 .banner-conent{
     font-size: 20px;
     font-weight:600;
-   margin-top: 20px;
+   margin-top: 200px;
      
     text-align: center;
    
@@ -64,6 +66,7 @@ margin-top: 46px;
     color: rgb(13, 19, 33) ;
     margin: 0px 10px;
     font-size: 26px;
+    box-shadow:40px ;
     margin-top: 20px;
     font-weight: 600;
     line-height: 23px;
@@ -73,4 +76,49 @@ margin-top: 46px;
 
 
 /* banner-section-end here */
+
+/* <!-- second-section start here --> */
+
+.second-section-container{
+    width: 946px;
+    height: 1235px;
+    border: 2px solid red;
+margin: 0 auto;
+margin-top: 80px;
+
+}
+.second-section-container h1
+{ font-size: 32px;
+    font-weight: 800;
+text-align: center;
+
+
+}
+.second-section-container p{
+    text-align: center;
+    width: 852px;
+    height: 52px;
+
+
+}
+. img{
+
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+
+
+}
+.coding-items{
+ display: flex;
+flex-direction:column;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+
+
+}
+
 
